@@ -1,0 +1,44 @@
+{
+    "Pakaian": [
+        {
+            "id_pakaian": "5",
+            "nama_pakaian": "Celana Hitam Pria",
+            "stok": "300",
+            "harga": "150000",
+            "id_jenis": "2",
+            "id_supplier": "1"
+        },
+        {
+            "id_pakaian": "4",
+            "nama_pakaian": "Rok Hitam",
+            "stok": "1000",
+            "harga": "100000",
+            "id_jenis": "1",
+            "id_supplier": "2"
+        },
+        {
+            "id_pakaian": "3",
+            "nama_pakaian": "celana pendek wanita",
+            "stok": "100",
+            "harga": "45000",
+            "id_jenis": "1",
+            "id_supplier": "2"
+        },
+        {
+            "id_pakaian": "2",
+            "nama_pakaian": "Baju Atasan Pria",
+            "stok": "200",
+            "harga": "90000",
+            "id_jenis": "2",
+            "id_supplier": "1"
+        },
+        {
+            "id_pakaian": "1",
+            "nama_pakaian": "Baju Hitam Wanita",
+            "stok": "100",
+            "harga": "50000",
+            "id_jenis": "1",
+            "id_supplier": "2"
+        }
+    ]
+}

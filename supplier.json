@@ -1,0 +1,18 @@
+{
+    "Supplier": [
+        {
+            "id_supplier": "2",
+            "nama_supplier": "Miiihaiyu",
+            "jenis_kelamin": "perempuan",
+            "alamat": "Jl Ngurah Rai",
+            "no_telp": "8765432345"
+        },
+        {
+            "id_supplier": "1",
+            "nama_supplier": "Adihudd",
+            "jenis_kelamin": "laki-laki",
+            "alamat": "Jalan Danau Beratan",
+            "no_telp": "87635262522"
+        }
+    ]
+}

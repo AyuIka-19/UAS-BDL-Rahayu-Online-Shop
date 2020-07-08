@@ -1,0 +1,34 @@
+{
+    "Transaksi": [
+        {
+            "id_transaksi": "5",
+            "tanggal_transaksi": "2020-07-04",
+            "id_member": "5",
+            "id_admin": "5"
+        },
+        {
+            "id_transaksi": "4",
+            "tanggal_transaksi": "2020-07-03",
+            "id_member": "4",
+            "id_admin": "4"
+        },
+        {
+            "id_transaksi": "3",
+            "tanggal_transaksi": "2020-07-03",
+            "id_member": "3",
+            "id_admin": "3"
+        },
+        {
+            "id_transaksi": "2",
+            "tanggal_transaksi": "2020-07-02",
+            "id_member": "2",
+            "id_admin": "2"
+        },
+        {
+            "id_transaksi": "1",
+            "tanggal_transaksi": "2020-07-01",
+            "id_member": "1",
+            "id_admin": "1"
+        }
+    ]
+}

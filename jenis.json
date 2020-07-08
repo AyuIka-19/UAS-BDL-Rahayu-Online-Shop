@@ -1,0 +1,12 @@
+{
+    "Jenis Pakaian": [
+        {
+            "id_jenis": "2",
+            "nama_jenis": "Pria"
+        },
+        {
+            "id_jenis": "1",
+            "nama_jenis": "Wanita"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Admin": [
+        {
+            "id_admin": "5",
+            "nama": "Ayu Agustini",
+            "jenis_kelamin": "perempuan",
+            "alamat": "Jalan Sintha",
+            "no_hp": "83114667852"
+        },
+        {
+            "id_admin": "4",
+            "nama": "Sakinah",
+            "jenis_kelamin": "perempuan",
+            "alamat": "Jalan Permai",
+            "no_hp": "85792678123"
+        },
+        {
+            "id_admin": "3",
+            "nama": "Sujani",
+            "jenis_kelamin": "perempuan",
+            "alamat": "Jalan Bima",
+            "no_hp": "87762414236"
+        },
+        {
+            "id_admin": "2",
+            "nama": "Suharto",
+            "jenis_kelamin": "laki-laki",
+            "alamat": "Jalan Ahmad Yani",
+            "no_hp": "81999278923"
+        },
+        {
+            "id_admin": "1",
+            "nama": "Supriayadi",
+            "jenis_kelamin": "laki-laki",
+            "alamat": "Jalan Sentosa",
+            "no_hp": "81234556234"
+        }
+    ]
+}

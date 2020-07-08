@@ -1,0 +1,39 @@
+{
+    "Member": [
+        {
+            "id_member": "5",
+            "nama": "Jay Park",
+            "jenis_kelamin": "laki-laki",
+            "alamat": "Jalan Sintha",
+            "no_hp": "83114667852"
+        },
+        {
+            "id_member": "4",
+            "nama": "Paramita Kumala",
+            "jenis_kelamin": "perempuan",
+            "alamat": "yehembang kauh",
+            "no_hp": "85792678123"
+        },
+        {
+            "id_member": "3",
+            "nama": "Ika Kasturi",
+            "jenis_kelamin": "perempuan",
+            "alamat": "gianyar",
+            "no_hp": "87762414236"
+        },
+        {
+            "id_member": "2",
+            "nama": "Miantari Dewik",
+            "jenis_kelamin": "perempuan",
+            "alamat": "yehembang",
+            "no_hp": "81999278923"
+        },
+        {
+            "id_member": "1",
+            "nama": "Megarini",
+            "jenis_kelamin": "perempuan",
+            "alamat": "yehembang kangin",
+            "no_hp": "81234556234"
+        }
+    ]
+}

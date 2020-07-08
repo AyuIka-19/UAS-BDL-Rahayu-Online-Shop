@@ -1,0 +1,28 @@
+{
+    "Detail Transaksi": [
+        {
+            "id_detail_transaksi": "3",
+            "jumlah": "1",
+            "harga": "100000",
+            "total_harga": "100000",
+            "id_transaksi": "5",
+            "id_pakaian": "4"
+        },
+        {
+            "id_detail_transaksi": "1",
+            "jumlah": "2",
+            "harga": "50000",
+            "total_harga": "100000",
+            "id_transaksi": "4",
+            "id_pakaian": "1"
+        },
+        {
+            "id_detail_transaksi": "2",
+            "jumlah": "3",
+            "harga": "90000",
+            "total_harga": "270000",
+            "id_transaksi": "4",
+            "id_pakaian": "2"
+        }
+    ]
+}
